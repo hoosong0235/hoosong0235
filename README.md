@@ -15,4 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://user-images.githubusercontent.com/78964767/209342904-4b8fa0db-0725-4d11-9d26-06d1637b4a0e.png)
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoosong0235&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![hoosong0235's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoosong0235&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
