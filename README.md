@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 **⚡ 5. Currently...**
 
 🔭 I’m currently working on ...
+- Pintos [Link](https://web.stanford.edu/class/cs140/projects/pintos/pintos.html)
 - Google Developer Student Clubs [Link](https://gdsc-kaist.notion.site/)
 - Machine Learning Specialization by Andrew Ng [Link](https://www.coursera.org/specializations/machine-learning-introduction?utm_medium=sem&utm_source=gg&utm_campaign=B2C_GLOBAL_machine-learning-introduction_stanford_FTCOF_specializations_ROW&campaignid=2070742271&adgroupid=80109820241&device=c&keyword=machine%20learning%20mooc&matchtype=b&network=g&devicemodel=&adposition=&creativeid=606803632021&hide_mobile_promo&gclid=Cj0KCQiAwJWdBhCYARIsAJc4idBH4nED1sKpsra8WIKCBOxqvqok8RRTvFba2CcSJEiAP3tesm5jB-MaAj5TEALw_wcB)
-- Pintos [Link](https://web.stanford.edu/class/cs140/projects/pintos/pintos.html)
 
 🌱 I’m currently learning ...
