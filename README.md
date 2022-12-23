@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 **🧰 Toolbox**
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="C Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="Java Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" alt="Python Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-plain.svg" alt="Scala Logo" width="50" height="50"/>
