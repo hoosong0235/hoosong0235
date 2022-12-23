@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hello! Welcome to my Github.
+### 👋 Hello, world!
 
 ---
 
