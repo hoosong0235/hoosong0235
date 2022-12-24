@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 **📘 2. Experience**
 
-----
+---
 
 **⚡ 3. I'm currently ...**
 
