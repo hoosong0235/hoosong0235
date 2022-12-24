@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 **📘 2. Experience**
 
-- 📚 KAIST Course [[Link]](https://hoosong0235.notion.site/a2ed85f766b94552b7a58e7f3988cf51?v=47e1279ea52e47c981a0bc3f5b18e7a7)
+- 📚 KAIST Major Course [[Link]](https://hoosong0235.notion.site/a2ed85f766b94552b7a58e7f3988cf51?v=47e1279ea52e47c981a0bc3f5b18e7a7)
 
 - ⚗️ KAIST Structure Competition [[Link]](https://hoosong0235.notion.site/KAIST-Structure-Competition-fc2c450336da480ea42b29b6fcc472cc)
 
