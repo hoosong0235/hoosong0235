@@ -46,3 +46,7 @@ Here are some ideas to get you started:
   - Compiler Design [[Link]](https://github.com/kaist-cp/cs420)
   - Operating Systems and Lab [[Link]](https://github.com/casys-kaist/pintos-kaist)
   - Introduction to Information Security [[Link]](https://github.com/prosyslab-classroom/cs348-information-security)
+
+---
+
+![](https://komarev.com/ghpvc/?username=hoosong0235&color=blue&style=flat-square)
