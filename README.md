@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 
 **⚡ 3. I'm currently ...**
 
-- ⛳ 2023 Goals [[Link]](https://hoosong0235.notion.site/2023-Goals-f9e3e2425b0a480bb495b406604be0b5)
-
 - 📅 Calender [[Link]](https://hoosong0235.notion.site/Calender-9ecc04f9469b49389e37b8192ee17835)
 
 - 🔭 I’m currently working on ...
@@ -48,3 +46,5 @@ Here are some ideas to get you started:
   - Compiler Design [[Link]](https://github.com/kaist-cp/cs420)
   - Operating Systems and Lab [[Link]](https://github.com/casys-kaist/pintos-kaist)
   - Introduction to Information Security [[Link]](https://github.com/prosyslab-classroom/cs348-information-security)
+
+- ⛳ 2023 Goals [[Link]](https://hoosong0235.notion.site/2023-Goals-f9e3e2425b0a480bb495b406604be0b5)
