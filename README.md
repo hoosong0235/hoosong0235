@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 **⚡ 3. I'm currently ...**
 
-- 💡 Calender [[Link]](https://hoosong0235.notion.site/Calender-9ecc04f9469b49389e37b8192ee17835)
+- 📅 Calender [[Link]](https://hoosong0235.notion.site/Calender-9ecc04f9469b49389e37b8192ee17835)
 
 - 🔭 I’m currently working on ...
   - Pintos [[Link]](https://web.stanford.edu/class/cs140/projects/pintos/pintos.html)
