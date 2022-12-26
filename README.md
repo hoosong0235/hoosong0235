@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
   - Pintos [[Link]](https://web.stanford.edu/class/cs140/projects/pintos/pintos.html)
   - Google Developer Student Clubs [[Link]](https://gdsc-kaist.notion.site/)
-  - Stanford CS229 by Andrew Ng [[Link]](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+  - Machine Learning Course by Andrew Ng [[Link]](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 - 🌱 I’m currently learning ...
   - Compiler Design [[Link]](https://github.com/kaist-cp/cs420)
