@@ -41,6 +41,7 @@ Here are some ideas to get you started:
   - Pintos [[Link]](https://web.stanford.edu/class/cs140/projects/pintos/pintos.html)
   - Google Developer Student Clubs [[Link]](https://gdsc-kaist.notion.site/)
   - Machine Learning Course by Andrew Ng [[Link]](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+  - Operating System Course by Ehwa [[Link]](http://www.kocw.net/home/search/kemView.do?kemId=1046323)
 
 - 🌱 I’m currently learning ...
   - Compiler Design [[Link]](https://github.com/kaist-cp/cs420)
