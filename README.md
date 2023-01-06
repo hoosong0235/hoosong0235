@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 **⚡ 3. I'm currently ...**
 
-- 📅 Calender [[Link]](https://hoosong0235.notion.site/Calender-9ecc04f9469b49389e37b8192ee17835)
+- 📅 Calender [[Link]](https://hoosong0235.notion.site/68132862a6624d7b990e0244b93e6be0?v=51b9d6c58917488e9315cda14b63663c)
 
 - ⛳ 2023 Goals [[Link]](https://hoosong0235.notion.site/2023-Goals-f9e3e2425b0a480bb495b406604be0b5)
