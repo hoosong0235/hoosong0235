@@ -37,15 +37,4 @@ Here are some ideas to get you started:
 
 - 📅 Calender [[Link]](https://hoosong0235.notion.site/Calender-9ecc04f9469b49389e37b8192ee17835)
 
-- 🔭 I’m currently working on ...
-  - Pintos [[Link]](https://web.stanford.edu/class/cs140/projects/pintos/pintos.html)
-  - Google Developer Student Clubs [[Link]](https://gdsc-kaist.notion.site/)
-  - Operating System Course by Ehwa [[Link]](http://www.kocw.net/home/search/kemView.do?kemId=1046323)
-  - Machine Learning Course by Andrew Ng [[Link]](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
-
-- 🌱 I’m currently learning ...
-  - Compiler Design [[Link]](https://github.com/kaist-cp/cs420)
-  - Operating Systems and Lab [[Link]](https://github.com/casys-kaist/pintos-kaist)
-  - Introduction to Information Security [[Link]](https://github.com/prosyslab-classroom/cs348-information-security)
-
 - ⛳ 2023 Goals [[Link]](https://hoosong0235.notion.site/2023-Goals-f9e3e2425b0a480bb495b406604be0b5)
