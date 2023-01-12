@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 - 📚 KAIST Major Course [[Link]](https://hoosong0235.notion.site/a2ed85f766b94552b7a58e7f3988cf51?v=47e1279ea52e47c981a0bc3f5b18e7a7)
 
-- Design Projects [[Link]]()
+- 🎨 Design Projects [[Link]](https://hoosong0235.notion.site/0833f558fd8e4a8abf56e7eb5a993a75?v=2989dfdab2764ec9beb37b55c204dc41)
 
-- Coding Projects [[Link]]()
+- 💻 Coding Projects [[Link]](https://hoosong0235.notion.site/f35708fe4b324ef5a774a91c37b235cd?v=50255275c0f84a92bd8bd8ecebea1e65)
 
 ---
 
