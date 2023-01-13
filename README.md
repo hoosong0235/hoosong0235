@@ -1,12 +1,10 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=333333&height=200&section=header)
-
 ### 👋 hello world!
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoosong0235&count_bg=%23666666&title_bg=%23333333&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
 
 **🧰 1. Toolbox**
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoosong0235&count_bg=%23666666&title_bg=%23333333&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007395?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white"/> <img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=Scala&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
 
@@ -33,5 +31,3 @@
 - 📅 Calender [[Link]](https://hoosong0235.notion.site/68132862a6624d7b990e0244b93e6be0?v=51b9d6c58917488e9315cda14b63663c)
 
 - ⛳ 2023 Goals [[Link]](https://hoosong0235.notion.site/2023-Goals-f9e3e2425b0a480bb495b406604be0b5)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=333333&height=200&section=footer)
