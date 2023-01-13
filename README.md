@@ -12,8 +12,6 @@
 
 - <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Rhinoceros-801010?style=flat&logo=Rhinoceros&logoColor=white"/>
 
-<img src="http://mazandi.herokuapp.com/api?handle=hoosong0235&theme=warm"/> <img src="http://mazandi.herokuapp.com/api?handle=hoosong0235c&theme=warm"/>
-
 ---
 
 **📘 2. Experience**
@@ -31,3 +29,5 @@
 - 📅 Calender [[Link]](https://hoosong0235.notion.site/68132862a6624d7b990e0244b93e6be0?v=51b9d6c58917488e9315cda14b63663c)
 
 - ⛳ 2023 Goals [[Link]](https://hoosong0235.notion.site/2023-Goals-f9e3e2425b0a480bb495b406604be0b5)
+
+<img src="http://mazandi.herokuapp.com/api?handle=hoosong0235&theme=warm"/> <img src="http://mazandi.herokuapp.com/api?handle=hoosong0235c&theme=warm"/>
