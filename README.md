@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cpp-00599C?style=flat&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cpp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-000000?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=Scala&logoColor=white"/>
@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=Illustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Rhinoceros-801010?style=flat&logo=Rhinoceros&logoColor=white"/>
 
 ---
