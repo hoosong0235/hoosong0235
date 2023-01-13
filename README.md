@@ -30,4 +30,6 @@
 
 - ⛳ 2023 Goals [[Link]](https://hoosong0235.notion.site/2023-Goals-f9e3e2425b0a480bb495b406604be0b5)
 
-<img src="http://mazandi.herokuapp.com/api?handle=hoosong0235&theme=warm"/> <img src="http://mazandi.herokuapp.com/api?handle=hoosong0235c&theme=warm"/>
+---
+
+<img src="http://mazandi.herokuapp.com/api?handle=hoosong0235&theme=warm"/>     <img src="http://mazandi.herokuapp.com/api?handle=hoosong0235c&theme=warm"/>
