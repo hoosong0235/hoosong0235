@@ -43,6 +43,12 @@ Here are some ideas to get you started:
 | <img src="http://mazandi.herokuapp.com/api?handle=hoosong0235&theme=warm"/> | [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoosong0235)](https://solved.ac/hoosong0235) |
 |-|-|
 
+<table>
+    <tr>
+        <td>[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoosong0235c)](https://solved.ac/hoosong0235c)</td><td><img src="http://mazandi.herokuapp.com/api?handle=hoosong0235c&theme=warm"/></td>
+    </tr>
+</table>
+
 <img src="http://mazandi.herokuapp.com/api?handle=hoosong0235c&theme=warm"/>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoosong0235c)](https://solved.ac/hoosong0235c)
