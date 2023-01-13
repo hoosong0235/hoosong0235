@@ -41,8 +41,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Rhinoceros-801010?style=flat&logo=Rhinoceros&logoColor=white"/>
 
 <img src="http://mazandi.herokuapp.com/api?handle=hoosong0235&theme=warm"/>
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoosong0235)](https://solved.ac/hoosong0235)
+
 <img src="http://mazandi.herokuapp.com/api?handle=hoosong0235c&theme=warm"/>
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoosong0235c)](https://solved.ac/hoosong0235c)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=333333&height=200&section=footer)
