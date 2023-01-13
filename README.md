@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-000000?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007395?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=Scala&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
@@ -39,6 +39,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Rhinoceros-801010?style=flat&logo=Rhinoceros&logoColor=white"/>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoosong02351)](https://solved.ac/hoosong0235)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoosong0235c)](https://solved.ac/hoosong0235c)
+
+<img src="http://mazandi.herokuapp.com/api?handle=hoosong0235&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=hoosong0235c&theme=warm"/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=333333&height=200&section=footer)
 
 ---
 
