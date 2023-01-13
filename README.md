@@ -32,4 +32,4 @@
 
 ---
 
-<img src="http://mazandi.herokuapp.com/api?handle=hoosong0235&theme=warm"/>     <img src="http://mazandi.herokuapp.com/api?handle=hoosong0235c&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=hoosong0235&theme=warm"/> <img src="http://mazandi.herokuapp.com/api?handle=hoosong0235c&theme=warm"/>
