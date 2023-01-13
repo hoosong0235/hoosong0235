@@ -15,13 +15,29 @@ Here are some ideas to get you started:
 
 ### 👋 hello world!
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoosong0235&count_bg=%23666666&title_bg=%23333333&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ---
 
 **🧰 1. Toolbox**
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" alt="Scala Logo" width="50" height="50"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-000000?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=Scala&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="Photoshop Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="Illustrator Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="50" height="50"/><img src="https://www.rhino3d.com/new-source/images/rhino-logo.png" alt="Rhino 3D Logo" width="60" height="50"/><img src="https://www.keyshot.com/wp-content/uploads/2020/11/keyshot-logo-250.png" alt="Keyshot Logo" width="200" height="50"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Illustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rhinoceros-801010?style=flat&logo=Rhinoceros&logoColor=white"/>
 
 ---
 
