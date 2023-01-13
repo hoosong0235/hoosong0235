@@ -21,28 +21,39 @@ Here are some ideas to get you started:
 
 **🧰 1. Toolbox**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007395?style=flat&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=Scala&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/><img src="https://img.shields.io/badge/Java-007395?style=flat&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white"/><img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=Scala&logoColor=white"/><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rhinoceros-801010?style=flat&logo=Rhinoceros&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/><img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/><img src="https://img.shields.io/badge/Rhinoceros-801010?style=flat&logo=Rhinoceros&logoColor=white"/>
 
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
 | <img src="http://mazandi.herokuapp.com/api?handle=hoosong0235&theme=warm"/> | [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoosong0235)](https://solved.ac/hoosong0235) |
 |-|-|
 
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
 | [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoosong0235c)](https://solved.ac/hoosong0235c) | <img src="http://mazandi.herokuapp.com/api?handle=hoosong0235c&theme=warm"/> |
 |-|-|
 
