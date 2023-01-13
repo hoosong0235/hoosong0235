@@ -40,10 +40,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Rhinoceros-801010?style=flat&logo=Rhinoceros&logoColor=white"/>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoosong02351)](https://solved.ac/hoosong0235)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoosong0235c)](https://solved.ac/hoosong0235c)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoosong0235)](https://solved.ac/hoosong0235)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoosong0235c)](https://solved.ac/hoosong0235c)
 
 <img src="http://mazandi.herokuapp.com/api?handle=hoosong0235&theme=warm"/>
 <img src="http://mazandi.herokuapp.com/api?handle=hoosong0235c&theme=warm"/>
