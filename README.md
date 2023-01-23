@@ -34,7 +34,7 @@
 
 - 📅 Calender [[Link]](https://hoosong0235.notion.site/68132862a6624d7b990e0244b93e6be0?v=51b9d6c58917488e9315cda14b63663c)
 
-- ⛳ 2023 Goals [[Link]](https://hoosong0235.notion.site/2023-Goals-f9e3e2425b0a480bb495b406604be0b5)
+- ⛳ 2023 Goals [[Link]](https://hoosong0235.notion.site/2b49f791d194498e8f0599b4fe06ffd5?v=c4802f4fc5bb424c9db5fb5cb09914ea)
 
 ---
 
