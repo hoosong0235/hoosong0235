@@ -40,8 +40,4 @@
 
 ---
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoosong0235)](https://solved.ac/hoosong0235)
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoosong0235c)](https://solved.ac/hoosong0235c)
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoosong0235cpp)](https://solved.ac/hoosong0235cpp)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoosong0235)](https://solved.ac/hoosong0235) [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoosong0235c)](https://solved.ac/hoosong0235c) [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoosong0235cpp)](https://solved.ac/hoosong0235cpp)
