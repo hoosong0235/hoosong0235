@@ -40,8 +40,8 @@
 
 ---
 
-<img src="http://mazandi.herokuapp.com/api?handle=hoosong0235&theme=warm"/> 
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hoosong0235)
 
-<img src="http://mazandi.herokuapp.com/api?handle=hoosong0235c&theme=warm"/> 
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hoosong0235c)
 
-<img src="http://mazandi.herokuapp.com/api?handle=hoosong0235cpp&theme=warm"/>
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hoosong0235cpp)
