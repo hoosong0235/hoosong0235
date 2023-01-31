@@ -18,6 +18,8 @@
 
 <!--- <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> -->
 
+- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235)](https://solved.ac/hoosong0235) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235c)](https://solved.ac/hoosong0235c) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235cpp)](https://solved.ac/hoosong0235cpp)
+
 ---
 
 **📘 2. Experience**
@@ -37,7 +39,3 @@
 - ⛳ 2023 Goals [[Link]](https://hoosong0235.notion.site/2b49f791d194498e8f0599b4fe06ffd5?v=c4802f4fc5bb424c9db5fb5cb09914ea)
 
 - 📅 Calender [[Link]](https://hoosong0235.notion.site/68132862a6624d7b990e0244b93e6be0?v=51b9d6c58917488e9315cda14b63663c)
-
----
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235)](https://solved.ac/hoosong0235) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235c)](https://solved.ac/hoosong0235c) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235cpp)](https://solved.ac/hoosong0235cpp)
