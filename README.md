@@ -40,8 +40,4 @@
 
 ---
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hoosong0235)
-
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hoosong0235c)
-
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hoosong0235cpp)
+(http://mazassumnida.wtf/api/v2/generate_badge?boj=hoosong0235)](https://solved.ac/hoosong0235)
