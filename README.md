@@ -39,3 +39,5 @@
 - ⛳ 2023 Goals [[Link]](https://hoosong0235.notion.site/2b49f791d194498e8f0599b4fe06ffd5?v=c4802f4fc5bb424c9db5fb5cb09914ea)
 
 - 📅 Calender [[Link]](https://hoosong0235.notion.site/68132862a6624d7b990e0244b93e6be0?v=51b9d6c58917488e9315cda14b63663c)
+
+- 🏃 Workout Tracker [[Link]](https://hoosong0235.notion.site/1b97baa704e24295bc373bfe531acce1?v=da20005fb9ed4425b8a4ed6e59f31638)
