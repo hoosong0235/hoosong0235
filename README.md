@@ -18,7 +18,7 @@
 
 <!--- <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> -->
 
-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235)](https://solved.ac/hoosong0235) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235c)](https://solved.ac/hoosong0235c) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235cpp)](https://solved.ac/hoosong0235cpp)
+- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235)](https://solved.ac/hoosong0235) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235c)](https://solved.ac/hoosong0235c) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235python)](https://solved.ac/hoosong0235python)
 
 ---
 
