@@ -32,7 +32,7 @@
 
 - 📚 Book Traker [[Link]](https://hoosong0235.notion.site/56058a0a5e634beab981d5ee18330530?v=8775a894298f4e25936fe5d6805dda60)
 
----
+<!-- ---
 
 **⚡ 3. I'm currently ...**
 
@@ -40,4 +40,4 @@
 
 - 📅 Calender [[Link]](https://hoosong0235.notion.site/68132862a6624d7b990e0244b93e6be0?v=51b9d6c58917488e9315cda14b63663c)
 
-- 🏃 Workout Tracker [[Link]](https://hoosong0235.notion.site/1b97baa704e24295bc373bfe531acce1?v=da20005fb9ed4425b8a4ed6e59f31638)
+- 🏃 Workout Tracker [[Link]](https://hoosong0235.notion.site/1b97baa704e24295bc373bfe531acce1?v=da20005fb9ed4425b8a4ed6e59f31638) -->
