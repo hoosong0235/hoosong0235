@@ -22,7 +22,7 @@
 
 ---
 
-**📘 2. About me**
+**😀 2. About me**
 
 - [📖 Portfolio](https://hoosong0235.notion.site/Portfolio-a869d78c1d5b4d28b8e6ef3fbfa16de9)
 
