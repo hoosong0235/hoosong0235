@@ -22,22 +22,11 @@
 
 ---
 
-**📘 2. Experience**
+**📘 2. About me**
 
-- ✏️ KAIST Major Course [[Link]](https://hoosong0235.notion.site/a2ed85f766b94552b7a58e7f3988cf51?v=47e1279ea52e47c981a0bc3f5b18e7a7)
+- [📖 Portfolio](https://hoosong0235.notion.site/Portfolio-a869d78c1d5b4d28b8e6ef3fbfa16de9)
 
-- 🎨 Design Projects [[Link]](https://hoosong0235.notion.site/0833f558fd8e4a8abf56e7eb5a993a75?v=2989dfdab2764ec9beb37b55c204dc41)
+- [🔥 Planner](https://hoosong0235.notion.site/Planner-b9a91bd182a047318f1b967bf17a570a)
 
-- 💻 Coding Projects [[Link]](https://hoosong0235.notion.site/f35708fe4b324ef5a774a91c37b235cd?v=50255275c0f84a92bd8bd8ecebea1e65)
+- [👟 Tracker](https://hoosong0235.notion.site/Tracker-748c994a16b442f386bad9a66ca00f97)
 
-- 📚 Book Traker [[Link]](https://hoosong0235.notion.site/56058a0a5e634beab981d5ee18330530?v=8775a894298f4e25936fe5d6805dda60)
-
-<!-- ---
-
-**⚡ 3. I'm currently ...**
-
-- ⛳ 2023 Goals [[Link]](https://hoosong0235.notion.site/2b49f791d194498e8f0599b4fe06ffd5?v=c4802f4fc5bb424c9db5fb5cb09914ea)
-
-- 📅 Calender [[Link]](https://hoosong0235.notion.site/68132862a6624d7b990e0244b93e6be0?v=51b9d6c58917488e9315cda14b63663c)
-
-- 🏃 Workout Tracker [[Link]](https://hoosong0235.notion.site/1b97baa704e24295bc373bfe531acce1?v=da20005fb9ed4425b8a4ed6e59f31638) -->
