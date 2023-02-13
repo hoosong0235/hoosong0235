@@ -30,4 +30,4 @@
 
 ---
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/develop0235?theme=wtf&ext=heatmap)](https://leetcode.com/develop0235)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/develop0235?ext=heatmap)](https://leetcode.com/develop0235)
