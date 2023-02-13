@@ -28,4 +28,6 @@
 
 - [👟 Tracker](https://hoosong0235.notion.site/Tracker-748c994a16b442f386bad9a66ca00f97)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/develop0235?theme=nord&ext=heatmap)](https://leetcode.com/develop0235)
+---
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/develop0235?theme=wtf&ext=heatmap)](https://leetcode.com/develop0235)
