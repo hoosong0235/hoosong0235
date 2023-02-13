@@ -16,10 +16,6 @@
 
 - <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Rhinoceros-801010?style=flat&logo=Rhinoceros&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
 
-- [![LeetCode Stats](https://leetcard.jacoblin.cool/develop0235?theme=nord&ext=heatmap)](https://leetcode.com/develop0235)
-
-
-
 <!-- - [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235)](https://solved.ac/hoosong0235) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235c)](https://solved.ac/hoosong0235c) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235python)](https://solved.ac/hoosong0235python) -->
 
 ---
@@ -32,3 +28,4 @@
 
 - [👟 Tracker](https://hoosong0235.notion.site/Tracker-748c994a16b442f386bad9a66ca00f97)
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/develop0235?theme=nord&ext=heatmap)](https://leetcode.com/develop0235)
