@@ -14,9 +14,11 @@
 
 <!--- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> -->
 
-- <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Rhinoceros-801010?style=flat&logo=Rhinoceros&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Rhinoceros-801010?style=flat&logo=Rhinoceros&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/>
 
-<!-- - [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235)](https://solved.ac/hoosong0235) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235c)](https://solved.ac/hoosong0235c) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235python)](https://solved.ac/hoosong0235python) -->
+<!-- <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/> -->
+
+- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235)](https://solved.ac/hoosong0235) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235c)](https://solved.ac/hoosong0235c) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235python)](https://solved.ac/hoosong0235python)
 
 ---
 
