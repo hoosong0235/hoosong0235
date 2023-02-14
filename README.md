@@ -24,6 +24,8 @@
 
 **🔎 2. About me**
 
+- [📜 Resume](https://www.figma.com/file/FP2up2sCYPo8V5g50Mlr5u/Resume-2023-02-14?node-id=2%3A2&t=zg5YxYU8Ao1erEvl-1)
+
 - [📖 Portfolio](https://hoosong0235.notion.site/Portfolio-a869d78c1d5b4d28b8e6ef3fbfa16de9)
 
 - [🔥 Planner](https://hoosong0235.notion.site/Planner-b9a91bd182a047318f1b967bf17a570a)
