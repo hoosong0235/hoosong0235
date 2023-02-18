@@ -34,4 +34,4 @@
 
 ---
 
-[![](https://leetcard.jacoblin.cool/develop0235?ext=heatmap)](https://leetcode.com/develop0235)
+[![](https://leetcard.jacoblin.cool/develop0235?ext=contest)](https://leetcode.com/develop0235)
