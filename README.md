@@ -31,3 +31,8 @@
 - [🔥 Planner](https://hoosong0235.notion.site/Planner-b9a91bd182a047318f1b967bf17a570a)
 
 - [👟 Tracker](https://hoosong0235.notion.site/Tracker-748c994a16b442f386bad9a66ca00f97)
+
+---
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/develop0235)
+![](https://leetcard.jacoblin.cool/develop0235?ext=heatmap)
