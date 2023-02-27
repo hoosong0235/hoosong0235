@@ -18,8 +18,9 @@
 
 <!-- <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/> -->
 
-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235)](https://solved.ac/hoosong0235) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235c)](https://solved.ac/hoosong0235c) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235python)](https://solved.ac/hoosong0235python)
-
+<!-- - [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235)](https://solved.ac/hoosong0235) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235c)](https://solved.ac/hoosong0235c) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoosong0235python)](https://solved.ac/hoosong0235python)
+ -->
+ 
 ---
 
 **🔎 2. About me**
@@ -34,4 +35,4 @@
 
 ---
 
-[![](https://leetcard.jacoblin.cool/develop0235?ext=contest)](https://leetcode.com/develop0235)
+<!-- [![](https://leetcard.jacoblin.cool/develop0235?ext=contest)](https://leetcode.com/develop0235) -->
